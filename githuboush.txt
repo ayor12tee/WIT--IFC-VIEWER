@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -am 'inital commit'
+git remote add origin 'https://github.com/ayor12tee/WIT--IFC-VIEWER.git'
+git push origin master
+
+To push changes:
+git commit -am 'new change'
