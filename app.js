@@ -172,3 +172,5 @@ function highlight(event, material, model) {
 
 window.onmousemove = (event) => highlight(event, preselectMat, preselectModel);
 window.ondblclick = (event) => highlight(event, selectMat, selectModel);
+
+//shite
